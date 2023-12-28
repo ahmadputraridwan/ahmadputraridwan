@@ -1,5 +1,3 @@
-
-
 <h2> Hey there! I'm A Putra Ridwan S.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
