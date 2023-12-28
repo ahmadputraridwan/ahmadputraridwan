@@ -22,7 +22,7 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![postgresql](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcomputerscience.id%2F2015%2F08%2Fremote-database-postgresql-melalui-pgadmin-dengan-ssh-tunnel-di-linux.html%2Fpostgresql-logo&psig=AOvVaw2rj9Qzbf_9zAm_8VDkOrCm&ust=1703844268876000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDJ-tjwsYMDFQAAAAAdAAAAABAD)
+ 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
