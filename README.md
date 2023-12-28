@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Currently pursuing a degree in Business Administration at Bandar Lampung University.
-- 💼 &nbsp; WI am actively engaged in comprehensive learning through courses offered by dumbways.id and Codepolitan.
+- 💼 &nbsp; I am actively engaged in comprehensive learning through courses offered by dumbways.id and Codepolitan.
 - 🌱 &nbsp; Learning more about Web developer, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; In addition to my pursuits in business administration and fullstack development, I am an avid book enthusiast with a genuine passion for reading.
 
