@@ -42,7 +42,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ahmad-putra-ridwan-susilo-7a3568289/"><img alt="LinkedIn" src="https://img.shields.io/badge/ahmad-putra-ridwan-susilo-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/ahmad-putra-ridwan-susilo-7a3568289/"><img alt="LinkedIn" src="https://img.shields.io/badge/ahmad-putra-ridwan-susilo-7a3568289?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/ahmadputraridwan/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ahmadputraridwan-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:a_putra.16411059@student.ubl.ac.id"><img alt="Email" src="https://img.shields.io/badge/Email-a_putra.16411059@student.ubl.ac.id-blue?style=flat-square&logo=gmail"></a>
 </p>
